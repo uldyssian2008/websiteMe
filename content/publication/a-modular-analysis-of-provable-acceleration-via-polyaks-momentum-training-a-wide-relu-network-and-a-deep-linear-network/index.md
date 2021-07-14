@@ -1,6 +1,6 @@
 ---
 title: "A Modular Analysis of Provable Acceleration via Polyak's Momentum:
-  Training a Wide ReLU Network and a Deep Linear Network."
+  Training a Wide ReLU Network and a Deep Linear Network"
 publication_types:
   - "1"
 authors:
