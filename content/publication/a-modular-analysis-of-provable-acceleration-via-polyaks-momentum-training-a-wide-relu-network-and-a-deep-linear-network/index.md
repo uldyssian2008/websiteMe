@@ -9,7 +9,7 @@ authors:
   - Jacob Abernethy
 publication: ICML 2021
 draft: false
-featured: false
+featured: true
 image:
   filename: featured.png
   focal_point: Smart
