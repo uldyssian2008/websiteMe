@@ -1,41 +1,19 @@
 ---
-abstract: >-
-  Optimal transport (OT) is a widely used technique for distribution alignment,
-  with applications
-
-  throughout the machine learning, graphics, and
-
-  vision communities. Without any additional structural assumptions on transport, however, OT can
-
-  be fragile to outliers or noise, especially in high
-
-  dimensions. Here, we introduce Latent Optimal
-
-  Transport (LOT), a new approach for OT that simultaneously learns low-dimensional structure in
-
-  data while leveraging this structure to solve the
-
-  alignment task. The idea behind our approach
-
-  is to learn two sets of “anchors” that constrain
-
-  the flow of transport between a source and target distribution. In both theoretical and empirical
-
-  studies, we show that LOT regularizes the rank of
-
-  transport and makes it more robust to outliers and
-
-  the sampling density. We show that by allowing
-
-  the source and target to have different anchors,
-
-  and using LOT to align the latent spaces between
-
-  anchors, the resulting transport plan has better
-
-  structural interpretability and highlights connections between both the individual data points and
-
-  the local geometry of the datasets.
+abstract: Optimal transport (OT) is a widely used technique for distribution
+  alignment, with applications throughout the machine learning, graphics, and
+  vision communities. Without any additional structural assumptions on
+  transport, however, OT can be fragile to outliers or noise, especially in high
+  dimensions. Here, we introduce Latent Optimal Transport (LOT), a new approach
+  for OT that simultaneously learns low-dimensional structure in data while
+  leveraging this structure to solve the alignment task. The idea behind our
+  approach is to learn two sets of “anchors” that constrain the flow of
+  transport between a source and target distribution. In both theoretical and
+  empirical studies, we show that LOT regularizes the rank of transport and
+  makes it more robust to outliers and the sampling density. We show that by
+  allowing the source and target to have different anchors, and using LOT to
+  align the latent spaces between anchors, the resulting transport plan has
+  better structural interpretability and highlights connections between both the
+  individual data points and the local geometry of the datasets.
 slides: example
 url_pdf: ""
 publication_types:
@@ -46,9 +24,7 @@ authors:
   - Eva L Dyer
 author_notes: []
 publication: ICML 2021
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
@@ -62,9 +38,10 @@ tags: []
 projects:
   - example
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
+  filename: null
 date: 2021-07-14T01:53:52.168Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
