@@ -28,7 +28,7 @@ experience:
     #company_logo: org-gc
     location: Taiwan
     date_start: '2016-01-01'
-    date_end: ''
+    date_end: '2016-07-01'
     description: |2-
         Development of 3D Video broadcast protocol 
         
