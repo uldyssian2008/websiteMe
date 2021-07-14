@@ -33,7 +33,7 @@ item:
   url: ""
 - #certificate_url: https://www.edx.org
   date_end: ""
-  date_start: "2016-09"
+  date_start: "2016-09-01"
   description: ""
   organization: Statistics Department in Columbia University
   #organization_url: https://www.edx.org
