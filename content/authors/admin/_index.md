@@ -1,5 +1,5 @@
 ---
-title: Nelson Bighettiiiii
+title: Nelson BighettDDD
 role: Professor of Artificial Intelligence
 avatar_filename: meside-01-02.jpg
 bio: My research interests include distributed robotics, mobile computing and
