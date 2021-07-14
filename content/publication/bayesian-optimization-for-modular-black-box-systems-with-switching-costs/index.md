@@ -1,5 +1,5 @@
 ---
-title: Bayesian optimization for modular black-box systems with switching costs.
+title: Bayesian optimization for modular black-box systems with switching costs
 publication_types:
   - "1"
 authors:
