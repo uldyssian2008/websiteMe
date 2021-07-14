@@ -1,12 +1,12 @@
 ---
 widget: pages
-widget_id: publications
+widget_id: Publications
 headless: true
 weight: 90
 title: Recent Publications
 active: true
 design:
-  columns: "2"
+  columns: ""
   background:
     text_color_light: false
     image_darken: ""
