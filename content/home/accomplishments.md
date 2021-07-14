@@ -47,6 +47,14 @@ item:
   #organization_url: https://www.datacamp.com
   title: Scholarship to Study Abroad
   url: ""
+  - #certificate_url: https://www.datacamp.com
+  #date_end: "2018-06-21"
+  date_start: "2010-06-01"
+  description: ""
+  organization: Electrical Engineering in National Taiwan University
+  #organization_url: https://www.datacamp.com
+  title: Presidential Award
+  url: ""
 design:
   columns: '2' 
 ---
