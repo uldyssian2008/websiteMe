@@ -2,7 +2,7 @@
 widget: pages
 widget_id: recent post
 headless: true
-weight: 100
+weight: 90
 title: Recent Posts
 subtitle: null
 content:
