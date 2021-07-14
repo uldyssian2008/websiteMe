@@ -10,7 +10,7 @@ publication: UAI 2021
 draft: false
 featured: true
 image:
-  filename: featured.jpg
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2021-07-14T04:08:35.629Z
