@@ -31,6 +31,14 @@ item:
   #organization_url: https://www.coursera.org
   title: IDEaS-TRIAD Research Scholarship
   url: ""
+- #certificate_url: https://www.edx.org
+  date_end: ""
+  date_start: "2016-09"
+  description: ""
+  organization: Statistics Department in Columbia University
+  #organization_url: https://www.edx.org
+  title: Davis Award (two times)
+  #url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 design:
   columns: '2' 
 ---
