@@ -1,6 +1,6 @@
 ---
 title: Making transport more robust and interpretable by moving data through a
-  small number of anchor points.
+  small number of anchor points
 publication_types:
   - "1"
 authors:
