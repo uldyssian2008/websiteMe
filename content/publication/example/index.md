@@ -12,7 +12,7 @@ abstract: ""
 draft: false
 featured: true
 tags: []
-slides: example
+#slides: example
 url_pdf: ""
 image:
   caption: ""
@@ -27,8 +27,8 @@ url_video: ""
 author_notes: []
 doi: ""
 publication: ICML 2021
-#projects:
-#  - example
+projects:
+  - example
 date: 2021-05-06T18:56:37.610Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
