@@ -9,7 +9,7 @@ authors:
   - and Mahmood Karimi
 publication: Wireless Communications and Mobile Computing
 draft: false
-featured: true
+featured: false
 image:
   filename: featured.png
   focal_point: Smart
