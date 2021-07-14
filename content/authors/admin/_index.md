@@ -29,7 +29,7 @@ education:
     - course: M.A. in Statistics
       institution: Columbia University
       year: ""
-    - course: BS&MS in Electrical Engineering
+    - course: B.S. & M.S. in Electrical Engineering
       institution: National Taiwan University
       year: ""
 email: clin354@gatech.edu
