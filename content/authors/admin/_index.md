@@ -7,7 +7,7 @@ bio: My research interests include Computational Neuroscience, Deep Learning,
 interests:
   - Computational Neuroscience
   - Deep Learning
-  - and Bayesian Statistics
+  - Bayesian Statistics
 social:
   - icon: envelope
     icon_pack: fas
