@@ -1,19 +1,20 @@
 ---
 abstract: Optimal transport (OT) is a widely used technique for distribution
   alignment, with applications throughout the machine learning, graphics, and
-  vision communities. Without any additional structural assumptions on
-  transport, however, OT can be fragile to outliers or noise, especially in high
-  dimensions. Here, we introduce Latent Optimal Transport (LOT), a new approach
-  for OT that simultaneously learns low-dimensional structure in data while
-  leveraging this structure to solve the alignment task. The idea behind our
-  approach is to learn two sets of “anchors” that constrain the flow of
-  transport between a source and target distribution. In both theoretical and
-  empirical studies, we show that LOT regularizes the rank of transport and
-  makes it more robust to outliers and the sampling density. We show that by
-  allowing the source and target to have different anchors, and using LOT to
-  align the latent spaces between anchors, the resulting transport plan has
-  better structural interpretability and highlights connections between both the
-  individual data points and the local geometry of the datasets.
+  vision communities. Without any additional structural assumptions
+  on.                      transport, however, OT can be fragile to outliers or
+  noise, especially in high dimensions. Here, we introduce Latent Optimal
+  Transport (LOT), a new approach for OT that simultaneously learns
+  low-dimensional structure in data while leveraging this structure to solve the
+  alignment task. The idea behind our approach is to learn two sets of “anchors”
+  that constrain the flow of transport between a source and target distribution.
+  In both theoretical and empirical studies, we show that LOT regularizes the
+  rank of transport and makes it more robust to outliers and the sampling
+  density. We show that by allowing the source and target to have different
+  anchors, and using LOT to align the latent spaces between anchors, the
+  resulting transport plan has better structural interpretability and highlights
+  connections between both the individual data points and the local geometry of
+  the datasets.
 slides: example
 url_pdf: ""
 publication_types:
@@ -48,7 +49,6 @@ publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
-
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
