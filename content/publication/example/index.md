@@ -19,7 +19,7 @@ url_video: ""
 title: Making transport more robust and interpretable by moving data through a
   small number of anchor points.
 doi: ""
-featured: true
+featured: false
 tags: []
 projects:
   - example
