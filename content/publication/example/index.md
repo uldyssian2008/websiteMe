@@ -1,33 +1,34 @@
 ---
-abstract: ""
-slides: example
-url_pdf: ""
+title: Making transport more robust and interpretable by moving data through a
+  small number of anchor points.
 publication_types:
   - "1"
 authors:
   - Chi-Heng Lin
   - Mehdi Azabou
   - Eva L Dyer
-author_notes: []
-publication: ICML 2021
-summary: ""
-url_dataset: ""
-url_project: ""
 publication_short: ""
-url_source: ""
-url_video: ""
-title: Making transport more robust and interpretable by moving data through a
-  small number of anchor points.
-doi: ""
+abstract: ""
+draft: false
 featured: false
 tags: []
-projects:
-  - example
+slides: example
+url_pdf: ""
 image:
   caption: ""
   focal_point: ""
   preview_only: false
   filename: featured.jpg
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes: []
+doi: ""
+publication: ICML 2021
+projects:
+  - example
 date: 2021-07-14T01:53:52.168Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
