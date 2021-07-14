@@ -42,7 +42,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: featured.png
+  filename: featured.jpg
 date: 2021-07-14T01:53:52.168Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
