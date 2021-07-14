@@ -19,20 +19,20 @@ social:
     icon_pack: fab
     link: https://github.com/uldyssian2008
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Georgia Institute of Technology
+    url: https://www.gatech.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: PhD in Electrical and Computer Engineering
+      institution: Georgia Institute of Technology
+      year: ""
+    - course: M.A. in Statistics
+      institution: Columbia University
+      year: ""
+    - course: BS&MS in Electrical Engineering
+      institution: National Taiwan University
+      year: ""
+email: clin354@gatech.edu
 superuser: true
 highlight_name: false
 ---
