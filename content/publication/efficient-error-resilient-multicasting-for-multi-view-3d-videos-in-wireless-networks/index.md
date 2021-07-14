@@ -5,7 +5,7 @@ publication_types:
   - "1"
 publication: GLOBECOM 2016
 draft: false
-featured: false
+featured: true
 image:
   filename: featured.png
   focal_point: Smart
