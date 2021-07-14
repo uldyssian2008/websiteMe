@@ -16,7 +16,7 @@ slides: example
 url_pdf: ""
 image:
   caption: ""
-  focal_point: ""
+  focal_point: smart
   preview_only: false
   filename: featured.png
 summary: ""
