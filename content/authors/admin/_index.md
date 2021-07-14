@@ -36,4 +36,4 @@ email: clin354@gatech.edu
 superuser: true
 highlight_name: false
 ---
-Chi-Heng Lin is an ECE Ph.D. student at the NerDSLab Lab, lead by Dr. Eva L Dyer. His research interests include Computational Neuroscience, Deep Learning, and Bayesian Statistics. An unknown reason connects him with 寶貓.
+Chi-Heng Lin is an ECE Ph.D. student at the NerDSLab, lead by Dr. Eva L Dyer. His research interests include Computational Neuroscience, Deep Learning, and Bayesian Statistics. An unknown reason connects him with 寶貓.
