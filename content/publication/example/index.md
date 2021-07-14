@@ -39,7 +39,8 @@ tags: []
 projects:
   - example
 image:
-  caption: ""
+  caption: We propose a new low-rank optimal transport method with interpretable
+    visualizations.
   focal_point: ""
   preview_only: false
   filename: featured.jpg
