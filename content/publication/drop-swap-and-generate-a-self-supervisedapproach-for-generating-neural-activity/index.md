@@ -1,5 +1,5 @@
 ---
-title: "Drop, Swap, and Generate: A Self-SupervisedApproach for Generating
+title: "Drop, Swap, and Generate: A Self-Supervised Approach for Generating
   Neural Activity"
 publication_types:
   - "3"
