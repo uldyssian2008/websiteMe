@@ -11,7 +11,7 @@ experience:
     description: "  Development of 3D Video broadcast protocol "
 widget_id: exp
 headless: true
-weight: 50
+weight: 60
 title: Experience
 subtitle: null
 design:
