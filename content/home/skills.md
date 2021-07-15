@@ -9,11 +9,19 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
+  - description: 90%
+    icon: linux
+    icon_pack: fab
+    name: Python
+  - description: 70%
+    icon: chart-bar
+    icon_pack: fab
+    name: Analysis
   - description: 50%
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 10%
+  - description: 30%
     icon: paint-brush
     icon_pack: fas
     name: Sketch
