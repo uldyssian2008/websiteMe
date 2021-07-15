@@ -9,7 +9,7 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
-  - description: 100%
+  - description: 50%
     icon: chart-line
     icon_pack: fas
     name: Statistics
@@ -17,5 +17,9 @@ feature:
     icon: paint-brush
     icon_pack: fas
     name: Sketch
+  - description: 30%
+    icon: fish
+    icon_pack: fas
+    name: 餵食可
 widget_id: skill
 ---
