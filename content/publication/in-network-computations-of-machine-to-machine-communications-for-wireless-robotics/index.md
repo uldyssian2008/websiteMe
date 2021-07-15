@@ -13,6 +13,6 @@ featured: true
 image:
   filename: featured.png
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 date: 2013-04-09T05:21:40.026Z
 ---
