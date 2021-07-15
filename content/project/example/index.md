@@ -1,5 +1,5 @@
 ---
-slides: example
+#slides: example
 url_pdf: ""
 summary: ""
 url_video: ""
