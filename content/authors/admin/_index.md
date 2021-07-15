@@ -18,6 +18,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/uldyssian2008
+  - display:
+      header: false
+    icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/chi-heng-lin-986727217/
 organizations:
   - name: Georgia Institute of Technology
     url: https://www.gatech.edu/
