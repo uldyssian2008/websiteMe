@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: clin354@gatech.edu
-#phone: 888 888 88 88
+phone: 413 362 2903
 address:
   street: 756 W Peachtree St NW
   city: Atlanta
@@ -40,7 +40,7 @@ directions: 11th floor at Coda
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: Chi-Heng Lin
+    name: ChiHengHenry
     link: 'https://twitter.com/ChiHengHenry'
   #- icon: skype
   #  icon_pack: fab
