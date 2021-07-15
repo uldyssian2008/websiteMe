@@ -1,5 +1,5 @@
 ---
-title: "Mine Your Own vieW: Self-Supervised LearningThrough Across-Sample Prediction"
+title: "Mine Your Own vieW: Self-Supervised Learning Through Across-Sample Prediction"
 publication_types:
   - "3"
 authors:
