@@ -12,10 +12,10 @@ feature:
   - description: 90%
     icon: linux
     icon_pack: fab
-    name: Python
+    name: Linux
   - description: 70%
     icon: chart-bar
-    icon_pack: fab
+    icon_pack: fas
     name: Analysis
   - description: 50%
     icon: chart-line
