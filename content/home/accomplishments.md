@@ -33,11 +33,18 @@ item:
   url: ""
 - #certificate_url: https://www.edx.org
   date_end: ""
-  date_start: "2017-06-01"
+  date_start: "2016-01-01"
   description: ""
   organization: Statistics Department in Columbia University
   #organization_url: https://www.edx.org
   title: Davis Award
+- #certificate_url: https://www.edx.org
+  date_end: ""
+  date_start: "2017-06-01"
+  description: ""
+  organization: Statistics Department in Columbia University
+  #organization_url: https://www.edx.org
+  title: Davis Award 
 - #certificate_url: https://www.datacamp.com
   #date_end: "2018-06-21"
   date_start: "2018-06-01"
