@@ -33,14 +33,14 @@ item:
   url: ""
 - #certificate_url: https://www.edx.org
   date_end: ""
-  date_start: "2016-01-01"
+  date_start: "2016-06-01"
   description: ""
   organization: Statistics Department in Columbia University
   #organization_url: https://www.edx.org
   title: Davis Fellowship
 - #certificate_url: https://www.edx.org
   date_end: ""
-  date_start: "2017-06-01"
+  date_start: "2017-01-01"
   description: ""
   organization: Statistics Department in Columbia University
   #organization_url: https://www.edx.org
