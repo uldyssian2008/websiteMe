@@ -1,7 +1,7 @@
 ---
 title: Chi-Heng Lin
 role: ECE Ph.D. student
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 bio: My research interests include Computational Neuroscience, Deep Learning,
   and Bayesian Statistics.
 interests:
