@@ -45,7 +45,7 @@ item:
   description: ""
   organization: Statistics Department in Columbia University
   #organization_url: https://www.edx.org
-  title: Davis Award
+  title: Davis Award 
 - #certificate_url: https://www.datacamp.com
   #date_end: "2018-06-21"
   date_start: "2018-06-01"
