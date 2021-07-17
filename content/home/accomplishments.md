@@ -53,6 +53,14 @@ item:
   #organization_url: https://www.datacamp.com
   title: Scholarship to Study Abroad
   url: ""
+- #certificate_url: https://www.datacamp.com
+  #date_end: "2018-06-21"
+  date_start: "2017-08-01"
+  description: ""
+  organization: ECE Department in Georgia Tech
+  #organization_url: https://www.datacamp.com
+  title: ECE Graduate Fellowship
+  url: ""
 #- #certificate_url: https://www.datacamp.com
 #  date_end: "2018-06-21"
 #  date_start: "2010-06-01"
