@@ -59,7 +59,7 @@ item:
   description: ""
   organization: ECE Department in Georgia Tech
   #organization_url: https://www.datacamp.com
-  title: ECE Graduate Fellowship
+  title: M&H Bourne Fellowship
   url: ""
 #- #certificate_url: https://www.datacamp.com
 #  date_end: "2018-06-21"
