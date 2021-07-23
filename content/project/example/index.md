@@ -15,7 +15,7 @@ image:
   focal_point: Smart
 url_code: ""
 ---
-
+---
 url_pdf: ""
 summary: ""
 url_video: ""
@@ -30,3 +30,5 @@ image:
   caption: ""
   focal_point: Smart
 url_code: ""
+
+---
