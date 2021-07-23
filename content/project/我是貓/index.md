@@ -6,6 +6,6 @@ featured: false
 external_link: https://chainsaw-man.fandom.com/wiki/Pochita
 image:
   filename: featured.jpeg
-  focal_point: Smart
+  focal_point: Center
   preview_only: false
 ---
