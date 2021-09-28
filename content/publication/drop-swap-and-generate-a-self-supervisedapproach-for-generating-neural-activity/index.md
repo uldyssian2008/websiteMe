@@ -12,7 +12,7 @@ authors:
   - Keith B. Hengen
   - Michal Valko
   - Eva L. Dyer
-publication: Submitted to NeurIPS 2021
+publication: NeurIPS 2021 (oral presentation)
 draft: false
 featured: true
 image:
