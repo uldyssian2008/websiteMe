@@ -8,7 +8,7 @@ featured: false
 image:
   filename: featured.jpeg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 If you are interested, please check out our paper at (no clickbait!)
 
