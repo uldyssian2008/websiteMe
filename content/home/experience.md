@@ -12,7 +12,7 @@ experience1:
 experience2:
   - title: Algorithm Engineer Intern
     company: Ambarella Corp.
-    company_url: ""
+    company_url: "https://www.ambarella.com/"
     location: California
     date_start: 2022-01-31
     date_end: 2022-04-29
