@@ -1,7 +1,7 @@
 ---
 widget: experience
 date_format: Jan 2006
-experience1:
+experience:
   - title: Research Assistant
     company: Academia Sinica
     company_url: ""
@@ -9,7 +9,6 @@ experience1:
     date_start: 2016-01-01
     date_end: 2016-07-01
     description: "  Development of 3D Video broadcast protocol "
-experience2:
   - title: Algorithm Engineer Intern
     company: Ambarella Corp.
     company_url: "https://www.ambarella.com/"
