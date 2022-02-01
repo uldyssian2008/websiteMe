@@ -11,11 +11,11 @@ experience:
     description: "  Development of 3D Video broadcast protocol "
   - title: Algorithm Engineer Intern
     company: Ambarella Corp.
-    company_url: "https://www.ambarella.com/"
+    company_url: https://www.ambarella.com/
     location: California
     date_start: 2022-01-31
     date_end: 2022-04-29
-    description: "Pedestrian Detection Algorihtm Design for Edge Devices"
+    description: Pedestrian Detection Algorihtm Design for Edge Devices
 widget_id: exp
 headless: true
 weight: 60
@@ -23,4 +23,6 @@ title: Experience
 subtitle: null
 design:
   columns: "2"
+  background:
+    image: icon.png
 ---
