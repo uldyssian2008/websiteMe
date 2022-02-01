@@ -17,4 +17,3 @@ subtitle: null
 design:
   columns: "2"
 ---
-Algorithm Engineer Intern @Ambarella Corp.
