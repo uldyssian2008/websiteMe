@@ -1,5 +1,5 @@
 ---
-title: Diablo 2
+title: Have you ever played Diablo2?
 date: 2021-08-17T15:07:41.710Z
 draft: false
 featured: false
@@ -8,4 +8,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Great art!
+
+
+Poor barbarian..
+
+A great game and fine art
