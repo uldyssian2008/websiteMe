@@ -1,5 +1,5 @@
 ---
-title: Pandemic long hair -.-
+title: Pandemic
 date: 2021-09-20T17:43:59.289Z
 draft: false
 featured: false
