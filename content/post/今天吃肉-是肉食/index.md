@@ -1,7 +1,7 @@
 ---
 title: Have you ever played Diablo2?
 date: 2021-08-17T15:07:41.710Z
-summary: "![](featured.jpeg)"
+summary: "![]()"
 draft: false
 featured: false
 image:
