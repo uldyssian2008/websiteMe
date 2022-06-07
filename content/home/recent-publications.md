@@ -2,7 +2,7 @@
 widget: pages
 widget_id: recent pub
 headless: false
-weight: 30
+weight: 40
 title: Recent Publications
 subtitle: ""
 content:
@@ -19,5 +19,3 @@ content:
 design:
   view: 4
 ---
-
-
