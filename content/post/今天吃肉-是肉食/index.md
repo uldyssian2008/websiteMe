@@ -1,5 +1,5 @@
 ---
-title: 今天吃肉 是肉食
+title: Diablo 2
 date: 2021-08-17T15:07:41.710Z
 draft: false
 featured: false
@@ -8,4 +8,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-吃肉～
+Great art!
