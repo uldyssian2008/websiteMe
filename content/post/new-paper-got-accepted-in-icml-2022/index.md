@@ -1,7 +1,7 @@
 ---
 title: New paper got accepted in ICML 2022!
 date: 2022-06-07T13:00:15.132Z
-summary: "![](featured.jpeg)"
+summary: "![](featured.png)"
 draft: false
 featured: false
 image:
