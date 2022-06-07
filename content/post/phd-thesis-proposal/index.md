@@ -1,6 +1,7 @@
 ---
 title: PhD thesis proposal
 date: 2021-11-02T20:19:52.625Z
+summary: "![](featured.jpeg)"
 draft: false
 featured: false
 image:
