@@ -1,5 +1,5 @@
 ---
-title: Another Year ~ Long Hair Last Time.
+title: Pandemic long hair -.-
 date: 2021-09-20T17:43:59.289Z
 draft: false
 featured: false
@@ -8,4 +8,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-卍解
+Probably the longest hair I've ever had...
