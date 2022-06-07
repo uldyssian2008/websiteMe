@@ -8,4 +8,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-PhD thesis proposal I am writing 0.0
+PhD proposal in progress
