@@ -1,6 +1,6 @@
 ---
 title: Internship at Ambarella Corp.
-date: 2022-06-07T13:05:53.062Z
+date: 2022-02-09T14:05:53.062Z
 summary: "![](featured.png)"
 draft: false
 featured: false
