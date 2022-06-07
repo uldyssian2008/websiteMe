@@ -1,5 +1,5 @@
 ---
-title: New paper has been accepted as an oral presentation in NeurIPS 2021!
+title: New paper accepted as an oral presentation in NeurIPS 2021!
 date: 2021-09-28T21:47:25.460Z
 draft: false
 featured: false
