@@ -41,4 +41,4 @@ email: clin354@gatech.edu
 superuser: true
 highlight_name: false
 ---
-Chi-Heng is an ECE PhD student in the [NerDS Lab](https://dyerlab.gatech.edu/) at [GeorgiaTech](https://www.ece.gatech.edu), lead by [Dr. Eva L Dyer](https://dyerlab.gatech.edu/people/pi-profile/). His research interests include Computational Neuroscience, Deep Learning, and Bayesian Statistics. An unknown reason connects him with 寶貓.
+Chi-Heng is an ECE PhD student in the [NerDS Lab](https://dyerlab.gatech.edu/) at [GeorgiaTech](https://www.ece.gatech.edu), lead by [Dr. Eva L Dyer](https://dyerlab.gatech.edu/people/pi-profile/). His research interests include Computational Neuroscience, Deep Learning, and Bayesian Statistics.
