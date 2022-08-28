@@ -17,7 +17,7 @@ feature:
     icon: chart-bar
     icon_pack: fas
     name: Analysis
-  - description: 50%
+  - description: 99%
     icon: chart-line
     icon_pack: fas
     name: Statistics
