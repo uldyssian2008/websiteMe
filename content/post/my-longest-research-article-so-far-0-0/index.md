@@ -11,4 +11,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-TL;DR [We analyze data augmentation in linear models through a spectrum perspective](https://arxiv.org/pdf/2210.05021.pdf)
+T﻿L; DR [We analyze data augmentation in linear models through a spectrum perspective (Don't click, or I tell you ma)](https://arxiv.org/pdf/2210.05021.pdf)
