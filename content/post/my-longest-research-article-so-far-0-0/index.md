@@ -1,8 +1,9 @@
 ---
 title: My longest research article so far 0.0
-subtitle: M﻿any thanks to my wonderful team members, **Chiraag Kaushik, Eva L.
-  Dyer, Vidya Muthukumar**!
+subtitle: ""
 date: 2022-10-12T02:00:36.061Z
+summary: M﻿any thanks to my wonderful team members, **Chiraag Kaushik, Eva L.
+  Dyer, Vidya Muthukumar**!
 draft: false
 featured: false
 image:
