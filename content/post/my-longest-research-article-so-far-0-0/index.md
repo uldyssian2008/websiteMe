@@ -11,10 +11,10 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-T﻿L; DR [We analyze data augmentation in linear models through a spectrum perspective (Don't click, or I tell you ma)](https://arxiv.org/pdf/2210.05021.pdf)
+#### T﻿L; DR [We analyze data augmentation in linear models through a spectrum perspective (Don't click, or I tell you ma)](https://arxiv.org/pdf/2210.05021.pdf)
 
 
 
 T﻿he music:
 
-#### [The Good, the Bad and the Ugly (You might wanna click)](https://www.youtube.com/watch?v=enuOArEfqGo)
+#### *[The Good, the Bad and the Ugly (You might wanna click)](https://www.youtube.com/watch?v=enuOArEfqGo)*
