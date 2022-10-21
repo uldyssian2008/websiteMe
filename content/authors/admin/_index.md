@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: My research interests lie in the intersection of machine learning and
   mathematics.
 interests:
-  - Computational Neuroscience
-  - Deep Learning
-  - Bayesian Statistics
+  - Data augmentation
+  - Domain adaptation
+  - Optimization
 social:
   - icon: envelope
     icon_pack: fas
