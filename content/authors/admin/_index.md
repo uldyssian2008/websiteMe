@@ -41,4 +41,4 @@ email: clin354@gatech.edu
 superuser: true
 highlight_name: false
 ---
-Chi-Heng is an ECE PhD student in the [NerDS Lab](https://dyerlab.gatech.edu/) at [GeorgiaTech](https://www.ece.gatech.edu), led by [Dr. Eva L Dyer](https://dyerlab.gatech.edu/people/pi-profile/). His research interests include self-supervised learning, Gaussian processes, and optimal transport.
+Chi-Heng is an ECE PhD student in the [NerDS Lab](https://dyerlab.gatech.edu/) at [GeorgiaTech](https://www.ece.gatech.edu), led by [Dr. Eva L Dyer](https://dyerlab.gatech.edu/people/pi-profile/). His research experience includes self-supervised learning, Gaussian processes, and optimal transport
